@@ -1,2 +1,3 @@
 # Coursera_Capstone_02
-Neighborhood Analysis Project
+
+Welcome! This repository is created to complete the Coursera Applied Data Science Capstone course.
